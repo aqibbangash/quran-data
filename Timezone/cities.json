@@ -1,0 +1,2225 @@
+[
+    {
+        "name": "Oranjestad",
+        "country": "Aruba",
+        "latlng": [
+            12.5,
+            -69.96666666
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Kabul",
+        "country": "Afghanistan",
+        "latlng": [
+            33,
+            65
+        ],
+        "timezones": 270
+    },
+    {
+        "name": "Luanda",
+        "country": "Angola",
+        "latlng": [
+            -12.5,
+            18.5
+        ],
+        "timezones": 60
+    },
+    {
+        "name": "The Valley",
+        "country": "Anguilla",
+        "latlng": [
+            18.25,
+            -63.16666666
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Mariehamn",
+        "country": "Åland Islands",
+        "latlng": [
+            60.116667,
+            19.9
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Tirana",
+        "country": "Albania",
+        "latlng": [
+            41,
+            20
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Andorra la Vella",
+        "country": "Andorra",
+        "latlng": [
+            42.5,
+            1.5
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "latlng": [
+            24,
+            54
+        ],
+        "timezones": 240
+    },
+    {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "latlng": [
+            -34,
+            -64
+        ],
+        "timezones": -180
+    },
+    {
+        "name": "Yerevan",
+        "country": "Armenia",
+        "latlng": [
+            40,
+            45
+        ],
+        "timezones": 240
+    },
+    {
+        "name": "Pago Pago",
+        "country": "American Samoa",
+        "latlng": [
+            -14.33333333,
+            -170
+        ],
+        "timezones": -660
+    },
+    {
+        "name": null,
+        "country": "Antarctica",
+        "latlng": [
+            -90,
+            0
+        ],
+        "timezones": 720
+    },
+    {
+        "name": "Port-aux-Français",
+        "country": "French Southern and Antarctic Lands",
+        "latlng": [
+            -49.25,
+            69.167
+        ],
+        "timezones": 300
+    },
+    {
+        "name": "Saint John's",
+        "country": "Antigua and Barbuda",
+        "latlng": [
+            17.05,
+            -61.8
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Canberra",
+        "country": "Australia",
+        "latlng": [
+            -27,
+            133
+        ],
+        "timezones": 630
+    },
+    {
+        "name": "Vienna",
+        "country": "Austria",
+        "latlng": [
+            47.33333333,
+            13.33333333
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Baku",
+        "country": "Azerbaijan",
+        "latlng": [
+            40.5,
+            47.5
+        ],
+        "timezones": 300
+    },
+    {
+        "name": "Bujumbura",
+        "country": "Burundi",
+        "latlng": [
+            -3.5,
+            30
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Brussels",
+        "country": "Belgium",
+        "latlng": [
+            50.83333333,
+            4
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Porto-Novo",
+        "country": "Benin",
+        "latlng": [
+            9.5,
+            2.25
+        ],
+        "timezones": 60
+    },
+    {
+        "name": "Ouagadougou",
+        "country": "Burkina Faso",
+        "latlng": [
+            13,
+            -2
+        ],
+        "timezones": 0
+    },
+    {
+        "name": "Dhaka",
+        "country": "Bangladesh",
+        "latlng": [
+            24,
+            90
+        ],
+        "timezones": 360
+    },
+    {
+        "name": "Sofia",
+        "country": "Bulgaria",
+        "latlng": [
+            43,
+            25
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Manama",
+        "country": "Bahrain",
+        "latlng": [
+            26,
+            50.55
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Nassau",
+        "country": "Bahamas",
+        "latlng": [
+            24.25,
+            -76
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Sarajevo",
+        "country": "Bosnia and Herzegovina",
+        "latlng": [
+            44,
+            18
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Gustavia",
+        "country": "Saint Barthélemy",
+        "latlng": [
+            18.5,
+            -63.41666666
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Minsk",
+        "country": "Belarus",
+        "latlng": [
+            53,
+            28
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Belmopan",
+        "country": "Belize",
+        "latlng": [
+            17.25,
+            -88.75
+        ],
+        "timezones": -360
+    },
+    {
+        "name": "Hamilton",
+        "country": "Bermuda",
+        "latlng": [
+            32.33333333,
+            -64.75
+        ],
+        "timezones": -180
+    },
+    {
+        "name": "Sucre",
+        "country": "Bolivia",
+        "latlng": [
+            -17,
+            -65
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Brasília",
+        "country": "Brazil",
+        "latlng": [
+            -10,
+            -55
+        ],
+        "timezones": -120
+    },
+    {
+        "name": "Bridgetown",
+        "country": "Barbados",
+        "latlng": [
+            13.16666666,
+            -59.53333333
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Bandar Seri Begawan",
+        "country": "Brunei",
+        "latlng": [
+            4.5,
+            114.66666666
+        ],
+        "timezones": 480
+    },
+    {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "latlng": [
+            27.5,
+            90.5
+        ],
+        "timezones": 360
+    },
+    {
+        "name": null,
+        "country": "Bouvet Island",
+        "latlng": [
+            -54.43333333,
+            3.4
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Gaborone",
+        "country": "Botswana",
+        "latlng": [
+            -22,
+            24
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Bangui",
+        "country": "Central African Republic",
+        "latlng": [
+            7,
+            21
+        ],
+        "timezones": 60
+    },
+    {
+        "name": "Ottawa",
+        "country": "Canada",
+        "latlng": [
+            60,
+            -95
+        ],
+        "timezones": -150
+    },
+    {
+        "name": "West Island",
+        "country": "Cocos (Keeling) Islands",
+        "latlng": [
+            -12.5,
+            96.83333333
+        ],
+        "timezones": 390
+    },
+    {
+        "name": "Bern",
+        "country": "Switzerland",
+        "latlng": [
+            47,
+            8
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Santiago",
+        "country": "Chile",
+        "latlng": [
+            -30,
+            -71
+        ],
+        "timezones": -180
+    },
+    {
+        "name": "Beijing",
+        "country": "China",
+        "latlng": [
+            35,
+            105
+        ],
+        "timezones": 480
+    },
+    {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast",
+        "latlng": [
+            8,
+            -5
+        ],
+        "timezones": 0
+    },
+    {
+        "name": "Yaoundé",
+        "country": "Cameroon",
+        "latlng": [
+            6,
+            12
+        ],
+        "timezones": 60
+    },
+    {
+        "name": "Kinshasa",
+        "country": "DR Congo",
+        "latlng": [
+            0,
+            25
+        ],
+        "timezones": 60
+    },
+    {
+        "name": "Brazzaville",
+        "country": "Republic of the Congo",
+        "latlng": [
+            -1,
+            15
+        ],
+        "timezones": 60
+    },
+    {
+        "name": "Avarua",
+        "country": "Cook Islands",
+        "latlng": [
+            -21.23333333,
+            -159.76666666
+        ],
+        "timezones": -600
+    },
+    {
+        "name": "Bogotá",
+        "country": "Colombia",
+        "latlng": [
+            4,
+            -72
+        ],
+        "timezones": -300
+    },
+    {
+        "name": "Moroni",
+        "country": "Comoros",
+        "latlng": [
+            -12.16666666,
+            44.25
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Praia",
+        "country": "Cape Verde",
+        "latlng": [
+            16,
+            -24
+        ],
+        "timezones": -60
+    },
+    {
+        "name": "San José",
+        "country": "Costa Rica",
+        "latlng": [
+            10,
+            -84
+        ],
+        "timezones": -360
+    },
+    {
+        "name": "Havana",
+        "country": "Cuba",
+        "latlng": [
+            21.5,
+            -80
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Willemstad",
+        "country": "Curaçao",
+        "latlng": [
+            12.116667,
+            -68.933333
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Flying Fish Cove",
+        "country": "Christmas Island",
+        "latlng": [
+            -10.5,
+            105.66666666
+        ],
+        "timezones": 420
+    },
+    {
+        "name": "George Town",
+        "country": "Cayman Islands",
+        "latlng": [
+            19.5,
+            -80.5
+        ],
+        "timezones": -300
+    },
+    {
+        "name": "Nicosia",
+        "country": "Cyprus",
+        "latlng": [
+            35,
+            33
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Prague",
+        "country": "Czech Republic",
+        "latlng": [
+            49.75,
+            15.5
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Berlin",
+        "country": "Germany",
+        "latlng": [
+            51,
+            9
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Djibouti",
+        "country": "Djibouti",
+        "latlng": [
+            11.5,
+            43
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Roseau",
+        "country": "Dominica",
+        "latlng": [
+            15.41666666,
+            -61.33333333
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Copenhagen",
+        "country": "Denmark",
+        "latlng": [
+            56,
+            10
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latlng": [
+            19,
+            -70.66666666
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Algiers",
+        "country": "Algeria",
+        "latlng": [
+            28,
+            3
+        ],
+        "timezones": 60
+    },
+    {
+        "name": "Quito",
+        "country": "Ecuador",
+        "latlng": [
+            -2,
+            -77.5
+        ],
+        "timezones": -300
+    },
+    {
+        "name": "Cairo",
+        "country": "Egypt",
+        "latlng": [
+            27,
+            30
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Asmara",
+        "country": "Eritrea",
+        "latlng": [
+            15,
+            39
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "El Aaiún",
+        "country": "Western Sahara",
+        "latlng": [
+            24.5,
+            -13
+        ],
+        "timezones": 60
+    },
+    {
+        "name": "Madrid",
+        "country": "Spain",
+        "latlng": [
+            40,
+            -4
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Tallinn",
+        "country": "Estonia",
+        "latlng": [
+            59,
+            26
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "latlng": [
+            8,
+            38
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Helsinki",
+        "country": "Finland",
+        "latlng": [
+            64,
+            26
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Suva",
+        "country": "Fiji",
+        "latlng": [
+            -18,
+            175
+        ],
+        "timezones": 720
+    },
+    {
+        "name": "Stanley",
+        "country": "Falkland Islands",
+        "latlng": [
+            -51.75,
+            -59
+        ],
+        "timezones": -180
+    },
+    {
+        "name": "Paris",
+        "country": "France",
+        "latlng": [
+            46,
+            2
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Tórshavn",
+        "country": "Faroe Islands",
+        "latlng": [
+            62,
+            -7
+        ],
+        "timezones": 60
+    },
+    {
+        "name": "Palikir",
+        "country": "Micronesia",
+        "latlng": [
+            6.91666666,
+            158.25
+        ],
+        "timezones": 600
+    },
+    {
+        "name": "Libreville",
+        "country": "Gabon",
+        "latlng": [
+            -1,
+            11.75
+        ],
+        "timezones": 60
+    },
+    {
+        "name": "London",
+        "country": "United Kingdom",
+        "latlng": [
+            54,
+            -2
+        ],
+        "timezones": 60
+    },
+    {
+        "name": "Tbilisi",
+        "country": "Georgia",
+        "latlng": [
+            42,
+            43.5
+        ],
+        "timezones": 240
+    },
+    {
+        "name": "St. Peter Port",
+        "country": "Guernsey",
+        "latlng": [
+            49.46666666,
+            -2.58333333
+        ],
+        "timezones": 60
+    },
+    {
+        "name": "Accra",
+        "country": "Ghana",
+        "latlng": [
+            8,
+            -2
+        ],
+        "timezones": 0
+    },
+    {
+        "name": "Gibraltar",
+        "country": "Gibraltar",
+        "latlng": [
+            36.13333333,
+            -5.35
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Conakry",
+        "country": "Guinea",
+        "latlng": [
+            11,
+            -10
+        ],
+        "timezones": 0
+    },
+    {
+        "name": "Basse-Terre",
+        "country": "Guadeloupe",
+        "latlng": [
+            16.25,
+            -61.583333
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Banjul",
+        "country": "Gambia",
+        "latlng": [
+            13.46666666,
+            -16.56666666
+        ],
+        "timezones": 0
+    },
+    {
+        "name": "Bissau",
+        "country": "Guinea-Bissau",
+        "latlng": [
+            12,
+            -15
+        ],
+        "timezones": 0
+    },
+    {
+        "name": "Malabo",
+        "country": "Equatorial Guinea",
+        "latlng": [
+            2,
+            10
+        ],
+        "timezones": 60
+    },
+    {
+        "name": "Athens",
+        "country": "Greece",
+        "latlng": [
+            39,
+            22
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "St. George's",
+        "country": "Grenada",
+        "latlng": [
+            12.11666666,
+            -61.66666666
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Nuuk",
+        "country": "Greenland",
+        "latlng": [
+            72,
+            -40
+        ],
+        "timezones": -120
+    },
+    {
+        "name": "Guatemala City",
+        "country": "Guatemala",
+        "latlng": [
+            15.5,
+            -90.25
+        ],
+        "timezones": -360
+    },
+    {
+        "name": "Cayenne",
+        "country": "French Guiana",
+        "latlng": [
+            4,
+            -53
+        ],
+        "timezones": -180
+    },
+    {
+        "name": "Hagåtña",
+        "country": "Guam",
+        "latlng": [
+            13.46666666,
+            144.78333333
+        ],
+        "timezones": 600
+    },
+    {
+        "name": "Georgetown",
+        "country": "Guyana",
+        "latlng": [
+            5,
+            -59
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "City of Victoria",
+        "country": "Hong Kong",
+        "latlng": [
+            22.267,
+            114.188
+        ],
+        "timezones": 480
+    },
+    {
+        "name": "Tegucigalpa",
+        "country": "Honduras",
+        "latlng": [
+            15,
+            -86.5
+        ],
+        "timezones": -360
+    },
+    {
+        "name": "Zagreb",
+        "country": "Croatia",
+        "latlng": [
+            45.16666666,
+            15.5
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Port-au-Prince",
+        "country": "Haiti",
+        "latlng": [
+            19,
+            -72.41666666
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Budapest",
+        "country": "Hungary",
+        "latlng": [
+            47,
+            20
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "latlng": [
+            -5,
+            120
+        ],
+        "timezones": 420
+    },
+    {
+        "name": "Douglas",
+        "country": "Isle of Man",
+        "latlng": [
+            54.25,
+            -4.5
+        ],
+        "timezones": 60
+    },
+    {
+        "name": "New Delhi",
+        "country": "India",
+        "latlng": [
+            20,
+            77
+        ],
+        "timezones": 330
+    },
+    {
+        "name": "Diego Garcia",
+        "country": "British Indian Ocean Territory",
+        "latlng": [
+            -6,
+            71.5
+        ],
+        "timezones": 360
+    },
+    {
+        "name": "Dublin",
+        "country": "Ireland",
+        "latlng": [
+            53,
+            -8
+        ],
+        "timezones": 60
+    },
+    {
+        "name": "Tehran",
+        "country": "Iran",
+        "latlng": [
+            32,
+            53
+        ],
+        "timezones": 270
+    },
+    {
+        "name": "Baghdad",
+        "country": "Iraq",
+        "latlng": [
+            33,
+            44
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Reykjavik",
+        "country": "Iceland",
+        "latlng": [
+            65,
+            -18
+        ],
+        "timezones": 0
+    },
+    {
+        "name": "Jerusalem",
+        "country": "Israel",
+        "latlng": [
+            31.47,
+            35.13
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Rome",
+        "country": "Italy",
+        "latlng": [
+            42.83333333,
+            12.83333333
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Kingston",
+        "country": "Jamaica",
+        "latlng": [
+            18.25,
+            -77.5
+        ],
+        "timezones": -300
+    },
+    {
+        "name": "Saint Helier",
+        "country": "Jersey",
+        "latlng": [
+            49.25,
+            -2.16666666
+        ],
+        "timezones": 60
+    },
+    {
+        "name": "Amman",
+        "country": "Jordan",
+        "latlng": [
+            31,
+            36
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Tokyo",
+        "country": "Japan",
+        "latlng": [
+            36,
+            138
+        ],
+        "timezones": 540
+    },
+    {
+        "name": "Astana",
+        "country": "Kazakhstan",
+        "latlng": [
+            48,
+            68
+        ],
+        "timezones": 360
+    },
+    {
+        "name": "Nairobi",
+        "country": "Kenya",
+        "latlng": [
+            1,
+            38
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
+        "latlng": [
+            41,
+            75
+        ],
+        "timezones": 360
+    },
+    {
+        "name": "Phnom Penh",
+        "country": "Cambodia",
+        "latlng": [
+            13,
+            105
+        ],
+        "timezones": 420
+    },
+    {
+        "name": "South Tarawa",
+        "country": "Kiribati",
+        "latlng": [
+            1.41666666,
+            173
+        ],
+        "timezones": 720
+    },
+    {
+        "name": "Basseterre",
+        "country": "Saint Kitts and Nevis",
+        "latlng": [
+            17.33333333,
+            -62.75
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Seoul",
+        "country": "South Korea",
+        "latlng": [
+            37,
+            127.5
+        ],
+        "timezones": 540
+    },
+    {
+        "name": "Pristina",
+        "country": "Kosovo",
+        "latlng": [
+            42.666667,
+            21.166667
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Kuwait City",
+        "country": "Kuwait",
+        "latlng": [
+            29.5,
+            45.75
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Vientiane",
+        "country": "Laos",
+        "latlng": [
+            18,
+            105
+        ],
+        "timezones": 420
+    },
+    {
+        "name": "Beirut",
+        "country": "Lebanon",
+        "latlng": [
+            33.83333333,
+            35.83333333
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Monrovia",
+        "country": "Liberia",
+        "latlng": [
+            6.5,
+            -9.5
+        ],
+        "timezones": 0
+    },
+    {
+        "name": "Tripoli",
+        "country": "Libya",
+        "latlng": [
+            25,
+            17
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Castries",
+        "country": "Saint Lucia",
+        "latlng": [
+            13.88333333,
+            -60.96666666
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Vaduz",
+        "country": "Liechtenstein",
+        "latlng": [
+            47.26666666,
+            9.53333333
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Colombo",
+        "country": "Sri Lanka",
+        "latlng": [
+            7,
+            81
+        ],
+        "timezones": 330
+    },
+    {
+        "name": "Maseru",
+        "country": "Lesotho",
+        "latlng": [
+            -29.5,
+            28.5
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Vilnius",
+        "country": "Lithuania",
+        "latlng": [
+            56,
+            24
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Luxembourg",
+        "country": "Luxembourg",
+        "latlng": [
+            49.75,
+            6.16666666
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Riga",
+        "country": "Latvia",
+        "latlng": [
+            57,
+            25
+        ],
+        "timezones": 180
+    },
+    {
+        "name": null,
+        "country": "Macau",
+        "latlng": [
+            22.16666666,
+            113.55
+        ],
+        "timezones": 480
+    },
+    {
+        "name": "Marigot",
+        "country": "Saint Martin",
+        "latlng": [
+            18.08333333,
+            -63.95
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Rabat",
+        "country": "Morocco",
+        "latlng": [
+            32,
+            -5
+        ],
+        "timezones": 60
+    },
+    {
+        "name": "Monaco",
+        "country": "Monaco",
+        "latlng": [
+            43.73333333,
+            7.4
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Chișinău",
+        "country": "Moldova",
+        "latlng": [
+            47,
+            29
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "latlng": [
+            -20,
+            47
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Malé",
+        "country": "Maldives",
+        "latlng": [
+            3.25,
+            73
+        ],
+        "timezones": 300
+    },
+    {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "latlng": [
+            23,
+            -102
+        ],
+        "timezones": -300
+    },
+    {
+        "name": "Majuro",
+        "country": "Marshall Islands",
+        "latlng": [
+            9,
+            168
+        ],
+        "timezones": 720
+    },
+    {
+        "name": "Skopje",
+        "country": "Macedonia",
+        "latlng": [
+            41.83333333,
+            22
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Bamako",
+        "country": "Mali",
+        "latlng": [
+            17,
+            -4
+        ],
+        "timezones": 0
+    },
+    {
+        "name": "Valletta",
+        "country": "Malta",
+        "latlng": [
+            35.83333333,
+            14.58333333
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Naypyidaw",
+        "country": "Myanmar",
+        "latlng": [
+            22,
+            98
+        ],
+        "timezones": 390
+    },
+    {
+        "name": "Podgorica",
+        "country": "Montenegro",
+        "latlng": [
+            42.5,
+            19.3
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Ulan Bator",
+        "country": "Mongolia",
+        "latlng": [
+            46,
+            105
+        ],
+        "timezones": 480
+    },
+    {
+        "name": "Saipan",
+        "country": "Northern Mariana Islands",
+        "latlng": [
+            15.2,
+            145.75
+        ],
+        "timezones": 600
+    },
+    {
+        "name": "Maputo",
+        "country": "Mozambique",
+        "latlng": [
+            -18.25,
+            35
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Nouakchott",
+        "country": "Mauritania",
+        "latlng": [
+            20,
+            -12
+        ],
+        "timezones": 0
+    },
+    {
+        "name": "Plymouth",
+        "country": "Montserrat",
+        "latlng": [
+            16.75,
+            -62.2
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Fort-de-France",
+        "country": "Martinique",
+        "latlng": [
+            14.666667,
+            -61
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Port Louis",
+        "country": "Mauritius",
+        "latlng": [
+            -20.28333333,
+            57.55
+        ],
+        "timezones": 240
+    },
+    {
+        "name": "Lilongwe",
+        "country": "Malawi",
+        "latlng": [
+            -13.5,
+            34
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia",
+        "latlng": [
+            2.5,
+            112.5
+        ],
+        "timezones": 480
+    },
+    {
+        "name": "Mamoudzou",
+        "country": "Mayotte",
+        "latlng": [
+            -12.83333333,
+            45.16666666
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "latlng": [
+            -22,
+            17
+        ],
+        "timezones": 60
+    },
+    {
+        "name": "Nouméa",
+        "country": "New Caledonia",
+        "latlng": [
+            -21.5,
+            165.5
+        ],
+        "timezones": 660
+    },
+    {
+        "name": "Niamey",
+        "country": "Niger",
+        "latlng": [
+            16,
+            8
+        ],
+        "timezones": 60
+    },
+    {
+        "name": "Kingston",
+        "country": "Norfolk Island",
+        "latlng": [
+            -29.03333333,
+            167.95
+        ],
+        "timezones": 690
+    },
+    {
+        "name": "Abuja",
+        "country": "Nigeria",
+        "latlng": [
+            10,
+            8
+        ],
+        "timezones": 60
+    },
+    {
+        "name": "Managua",
+        "country": "Nicaragua",
+        "latlng": [
+            13,
+            -85
+        ],
+        "timezones": -360
+    },
+    {
+        "name": "Alofi",
+        "country": "Niue",
+        "latlng": [
+            -19.03333333,
+            -169.86666666
+        ],
+        "timezones": -660
+    },
+    {
+        "name": "Amsterdam",
+        "country": "Netherlands",
+        "latlng": [
+            52.5,
+            5.75
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Oslo",
+        "country": "Norway",
+        "latlng": [
+            62,
+            10
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "latlng": [
+            28,
+            84
+        ],
+        "timezones": 345
+    },
+    {
+        "name": "Yaren",
+        "country": "Nauru",
+        "latlng": [
+            -0.53333333,
+            166.91666666
+        ],
+        "timezones": 720
+    },
+    {
+        "name": "Wellington",
+        "country": "New Zealand",
+        "latlng": [
+            -41,
+            174
+        ],
+        "timezones": 720
+    },
+    {
+        "name": "Muscat",
+        "country": "Oman",
+        "latlng": [
+            21,
+            57
+        ],
+        "timezones": 240
+    },
+    {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "latlng": [
+            30,
+            70
+        ],
+        "timezones": 300
+    },
+    {
+        "name": "Panama City",
+        "country": "Panama",
+        "latlng": [
+            9,
+            -80
+        ],
+        "timezones": -300
+    },
+    {
+        "name": "Adamstown",
+        "country": "Pitcairn Islands",
+        "latlng": [
+            -25.06666666,
+            -130.1
+        ],
+        "timezones": -480
+    },
+    {
+        "name": "Lima",
+        "country": "Peru",
+        "latlng": [
+            -10,
+            -76
+        ],
+        "timezones": -300
+    },
+    {
+        "name": "Manila",
+        "country": "Philippines",
+        "latlng": [
+            13,
+            122
+        ],
+        "timezones": 480
+    },
+    {
+        "name": "Ngerulmud",
+        "country": "Palau",
+        "latlng": [
+            7.5,
+            134.5
+        ],
+        "timezones": 540
+    },
+    {
+        "name": "Port Moresby",
+        "country": "Papua New Guinea",
+        "latlng": [
+            -6,
+            147
+        ],
+        "timezones": 600
+    },
+    {
+        "name": "Warsaw",
+        "country": "Poland",
+        "latlng": [
+            52,
+            20
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "San Juan",
+        "country": "Puerto Rico",
+        "latlng": [
+            18.25,
+            -66.5
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Pyongyang",
+        "country": "North Korea",
+        "latlng": [
+            40,
+            127
+        ],
+        "timezones": 540
+    },
+    {
+        "name": "Lisbon",
+        "country": "Portugal",
+        "latlng": [
+            39.5,
+            -8
+        ],
+        "timezones": 60
+    },
+    {
+        "name": "Asunción",
+        "country": "Paraguay",
+        "latlng": [
+            -23,
+            -58
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Ramallah",
+        "country": "Palestine",
+        "latlng": [
+            31.9,
+            35.2
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Papeetē",
+        "country": "French Polynesia",
+        "latlng": [
+            -15,
+            -140
+        ],
+        "timezones": -600
+    },
+    {
+        "name": "Doha",
+        "country": "Qatar",
+        "latlng": [
+            25.5,
+            51.25
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Saint-Denis",
+        "country": "Réunion",
+        "latlng": [
+            -21.15,
+            55.5
+        ],
+        "timezones": 240
+    },
+    {
+        "name": "Bucharest",
+        "country": "Romania",
+        "latlng": [
+            46,
+            25
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Moscow",
+        "country": "Russia",
+        "latlng": [
+            60,
+            100
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "latlng": [
+            -2,
+            30
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Riyadh",
+        "country": "Saudi Arabia",
+        "latlng": [
+            25,
+            45
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Khartoum",
+        "country": "Sudan",
+        "latlng": [
+            15,
+            30
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Dakar",
+        "country": "Senegal",
+        "latlng": [
+            14,
+            -14
+        ],
+        "timezones": 0
+    },
+    {
+        "name": "Singapore",
+        "country": "Singapore",
+        "latlng": [
+            1.36666666,
+            103.8
+        ],
+        "timezones": 480
+    },
+    {
+        "name": "King Edward Point",
+        "country": "South Georgia",
+        "latlng": [
+            -54.5,
+            -37
+        ],
+        "timezones": -120
+    },
+    {
+        "name": "Longyearbyen",
+        "country": "Svalbard and Jan Mayen",
+        "latlng": [
+            78,
+            20
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Honiara",
+        "country": "Solomon Islands",
+        "latlng": [
+            -8,
+            159
+        ],
+        "timezones": 660
+    },
+    {
+        "name": "Freetown",
+        "country": "Sierra Leone",
+        "latlng": [
+            8.5,
+            -11.5
+        ],
+        "timezones": 0
+    },
+    {
+        "name": "San Salvador",
+        "country": "El Salvador",
+        "latlng": [
+            13.83333333,
+            -88.91666666
+        ],
+        "timezones": -360
+    },
+    {
+        "name": "City of San Marino",
+        "country": "San Marino",
+        "latlng": [
+            43.76666666,
+            12.41666666
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Mogadishu",
+        "country": "Somalia",
+        "latlng": [
+            10,
+            49
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Saint-Pierre",
+        "country": "Saint Pierre and Miquelon",
+        "latlng": [
+            46.83333333,
+            -56.33333333
+        ],
+        "timezones": -120
+    },
+    {
+        "name": "Belgrade",
+        "country": "Serbia",
+        "latlng": [
+            44,
+            21
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Juba",
+        "country": "South Sudan",
+        "latlng": [
+            7,
+            30
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "São Tomé",
+        "country": "São Tomé and Príncipe",
+        "latlng": [
+            1,
+            7
+        ],
+        "timezones": 0
+    },
+    {
+        "name": "Paramaribo",
+        "country": "Suriname",
+        "latlng": [
+            4,
+            -56
+        ],
+        "timezones": -180
+    },
+    {
+        "name": "Bratislava",
+        "country": "Slovakia",
+        "latlng": [
+            48.66666666,
+            19.5
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Ljubljana",
+        "country": "Slovenia",
+        "latlng": [
+            46.11666666,
+            14.81666666
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Stockholm",
+        "country": "Sweden",
+        "latlng": [
+            62,
+            15
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Lobamba",
+        "country": "Swaziland",
+        "latlng": [
+            -26.5,
+            31.5
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Philipsburg",
+        "country": "Sint Maarten",
+        "latlng": [
+            18.033333,
+            -63.05
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Victoria",
+        "country": "Seychelles",
+        "latlng": [
+            -4.58333333,
+            55.66666666
+        ],
+        "timezones": 240
+    },
+    {
+        "name": "Damascus",
+        "country": "Syria",
+        "latlng": [
+            35,
+            38
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Cockburn Town",
+        "country": "Turks and Caicos Islands",
+        "latlng": [
+            21.75,
+            -71.58333333
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "N'Djamena",
+        "country": "Chad",
+        "latlng": [
+            15,
+            19
+        ],
+        "timezones": 60
+    },
+    {
+        "name": "Lomé",
+        "country": "Togo",
+        "latlng": [
+            8,
+            1.16666666
+        ],
+        "timezones": 0
+    },
+    {
+        "name": "Bangkok",
+        "country": "Thailand",
+        "latlng": [
+            15,
+            100
+        ],
+        "timezones": 420
+    },
+    {
+        "name": "Dushanbe",
+        "country": "Tajikistan",
+        "latlng": [
+            39,
+            71
+        ],
+        "timezones": 300
+    },
+    {
+        "name": "Fakaofo",
+        "country": "Tokelau",
+        "latlng": [
+            -9,
+            -172
+        ],
+        "timezones": 780
+    },
+    {
+        "name": "Ashgabat",
+        "country": "Turkmenistan",
+        "latlng": [
+            40,
+            60
+        ],
+        "timezones": 300
+    },
+    {
+        "name": "Dili",
+        "country": "Timor-Leste",
+        "latlng": [
+            -8.83333333,
+            125.91666666
+        ],
+        "timezones": 540
+    },
+    {
+        "name": "Nuku'alofa",
+        "country": "Tonga",
+        "latlng": [
+            -20,
+            -175
+        ],
+        "timezones": 780
+    },
+    {
+        "name": "Port of Spain",
+        "country": "Trinidad and Tobago",
+        "latlng": [
+            11,
+            -61
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Tunis",
+        "country": "Tunisia",
+        "latlng": [
+            34,
+            9
+        ],
+        "timezones": 60
+    },
+    {
+        "name": "Ankara",
+        "country": "Turkey",
+        "latlng": [
+            39,
+            35
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Funafuti",
+        "country": "Tuvalu",
+        "latlng": [
+            -8,
+            178
+        ],
+        "timezones": 720
+    },
+    {
+        "name": "Taipei",
+        "country": "Taiwan",
+        "latlng": [
+            23.5,
+            121
+        ],
+        "timezones": 480
+    },
+    {
+        "name": "Dodoma",
+        "country": "Tanzania",
+        "latlng": [
+            -6,
+            35
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Kampala",
+        "country": "Uganda",
+        "latlng": [
+            1,
+            32
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Kiev",
+        "country": "Ukraine",
+        "latlng": [
+            49,
+            32
+        ],
+        "timezones": 180
+    },
+    {
+        "name": null,
+        "country": "United States Minor Outlying Islands",
+        "latlng": [
+            19.2911437,
+            166.618332
+        ],
+        "timezones": -600
+    },
+    {
+        "name": "Montevideo",
+        "country": "Uruguay",
+        "latlng": [
+            -33,
+            -56
+        ],
+        "timezones": -180
+    },
+    {
+        "name": "Washington D.C.",
+        "country": "United States",
+        "latlng": [
+            38,
+            -97
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "latlng": [
+            41,
+            64
+        ],
+        "timezones": 300
+    },
+    {
+        "name": "Vatican City",
+        "country": "Vatican City",
+        "latlng": [
+            41.9,
+            12.45
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Kingstown",
+        "country": "Saint Vincent and the Grenadines",
+        "latlng": [
+            13.25,
+            -61.2
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Caracas",
+        "country": "Venezuela",
+        "latlng": [
+            8,
+            -66
+        ],
+        "timezones": -270
+    },
+    {
+        "name": "Road Town",
+        "country": "British Virgin Islands",
+        "latlng": [
+            18.431383,
+            -64.62305
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Charlotte Amalie",
+        "country": "United States Virgin Islands",
+        "latlng": [
+            18.35,
+            -64.933333
+        ],
+        "timezones": -240
+    },
+    {
+        "name": "Hanoi",
+        "country": "Vietnam",
+        "latlng": [
+            16.16666666,
+            107.83333333
+        ],
+        "timezones": 420
+    },
+    {
+        "name": "Port Vila",
+        "country": "Vanuatu",
+        "latlng": [
+            -16,
+            167
+        ],
+        "timezones": 660
+    },
+    {
+        "name": "Mata-Utu",
+        "country": "Wallis and Futuna",
+        "latlng": [
+            -13.3,
+            -176.2
+        ],
+        "timezones": 720
+    },
+    {
+        "name": "Apia",
+        "country": "Samoa",
+        "latlng": [
+            -13.58333333,
+            -172.33333333
+        ],
+        "timezones": 780
+    },
+    {
+        "name": "Sana'a",
+        "country": "Yemen",
+        "latlng": [
+            15,
+            48
+        ],
+        "timezones": 180
+    },
+    {
+        "name": "Pretoria",
+        "country": "South Africa",
+        "latlng": [
+            -29,
+            24
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Lusaka",
+        "country": "Zambia",
+        "latlng": [
+            -15,
+            30
+        ],
+        "timezones": 120
+    },
+    {
+        "name": "Harare",
+        "country": "Zimbabwe",
+        "latlng": [
+            -20,
+            30
+        ],
+        "timezones": 120
+    }
+]
